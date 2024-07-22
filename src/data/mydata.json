@@ -1,0 +1,211 @@
+
+{
+    "name": "Sivasuriyan Mohan",
+    "bio": "Aspiring Full Stack Developer | Proficient in React.js, Django, and Blockchain | BE in Computer Science",
+    "contact": {
+      "email": "msivasuriyanmohan692@gmail.com",
+      "phone": "8760287239",
+      "linkedin": "https://www.linkedin.com/in/siva-suriyan-m/",
+      "github": "https://github.com/SivasuriyanM",
+      "insta":"https://www.instagram.com/ms_suriyan/",
+      "Wp":"https://web.whatsapp.com/",
+      "address":"1-C, Sankara Naidu Street Kesava Nagar Thirupapuliyur Cuddalore-2 Pincode : 607002",
+      "googlemaplink": "https://maps.app.goo.gl/eCXu8XyfQC28h2jZA"
+    },
+    "experience": [
+      {
+        "title": "Python Programming Intern at YBI Foundation",
+        "date": "June 2024 - July 2024",
+        "responsibility": [
+          "Mode : Virtual",
+          "Project: Bank Customer Churn Prediction",
+          "Description: Developed a model to identify at-risk customers using SVC and Gradient Boosting. Conducted data preprocessing and feature engineering.",
+          "Highlights: Completed 13 modules and 35 chapters mastering Python data analysis and machine learning.",
+          "Proficient in Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn."
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "HealthChain",
+        "duration": "Dec 2022 - Apr 2023",
+        "link":"https://healthchain-60030233640.development.catalystserverless.in/app/",
+        "description": "Launched a secure blockchain-powered website for patient health records ensuring enhanced data protection and transparency.",
+        "highlights": [
+          "Developed a front-end using React.js for user interaction",
+          " Integrated secure data transactions with Ethereum test net and MetaMask handling over 10,000 transactions monthly.",
+          "Developed robust smart contracts in Solidity to ensure secure data handling", 
+          "resulting in a 50% reduction in data compromise incidents and a 30% improvement in processing efficiency."
+        ]
+      },
+      {
+        "name": "Diabetes and Heart Disease Prediction",
+        "duration": "Nov 2021 - Feb 2022",
+        "link":"",
+        "description": "Engineered a predictive analytics web application using Django framework, increasing forecasting accuracy by 25% and reducing manual data processing time by 40%.",
+        "highlights": [
+          "Implemented machine learning algorithms (Random Forest) to achieve 85% prediction accuracy.",
+          "Utilized MongoDB for efficient data storage and management, reducing query time by 30%."
+        ]
+      }
+
+    ],
+    "skills": [
+    {
+      "title": "Programming Languages",
+      "icon":"https://img.icons8.com/ios-filled/50/800080/programming.png",
+      "skills": [
+        {"skill": "Python", "percentage": "50%"},
+        {"skill": "Java", "percentage": "50%"},
+        {"skill": "JavaScript", "percentage": "50%"},
+        {"skill": "Solidity", "percentage": "25%"}
+      ]
+    },
+    {
+      "title": "Database",
+      "icon":"https://img.icons8.com/ios-filled/50/800080/database.png",
+      "skills": [
+        {"skill": "MongoDB", "percentage": "50%"},
+        {"skill": "MySQL", "percentage": "50%"}
+      ]
+    },
+    {
+      "title": "Frameworks & Libraries",
+      "icon":" https://img.icons8.com/ios-glyphs/50/800080/library.png",
+      "skills": [
+        {"skill": "React JS", "percentage": "75%"},
+        {"skill": "Django", "percentage": "50%"},
+        {"skill": "React Native", "percentage": "25%"}
+      ]
+    },
+    {
+      "title": "Tools & Technologies",
+      "icon":"https://img.icons8.com/ios-filled/50/800080/toolbox.png",
+      "skills": [
+        {"skill": "VS Code", "percentage": "50%"},
+        {"skill": "Git & GitHub", "percentage": "50%"},
+        {"skill": "Blockchain", "percentage": "50%"}
+      ]
+    }
+  ],
+    "education": [
+      {
+        "institution": "CK College of Engineering & Technology",
+        "qualification": "Jayaram Nagar, Chellangkuppam, Sellankuppam, Cuddalore, Tamil Nadu 607003 ",
+        "percentage": "I have completed my BE in Computer Science with an aggregate of 78.88%",
+        "duration": "Nov 2020 - May 2024",
+        "relevant_coursework": ["Data Structures", "OOPS", "DBMS"]
+      },
+      {
+        "institution": "Sri Valli Ammal Matric Higher Secondary School",
+        "qualification": "Kesavan Nagar Extension, Thirupapuliyur, Cuddalore, Tamil Nadu 607002",
+        "percentage": "I have completed my High School with an aggregate of 68.88%",
+        "duration": "Jul 2019 - May 2020"
+      },
+      {
+        "institution": "Sri Valli Ammal Matric Higher Secondary School",
+        "qualification": "Kesavan Nagar Extension, Thirupapuliyur, Cuddalore, Tamil Nadu 607002",
+        "percentage": "I have completed my Secondary School with an aggregate of 80.6%",
+        "duration": "Jul 2017 - May 2018"
+      }
+    ],
+    "leadership_experience": [
+      {
+        "title": "School Pupil Leader",
+        "duration": "Apr 2019 - May 2020",
+        "responsibilities": [
+          "As the school pupil leader, I organized a series of workshops focusing on communication, teamwork, and goal-setting to foster leadership skills among students",
+          "I led the coordination of a Career Exploration Fair, connecting students with professionals to provide insights into diverse career paths"
+        ]
+      },
+      {
+        "title": "Event Organizer",
+        "duration": "Sep 2021 - May 2024",
+        "responsibilities": [
+          "Organized and managed over 10 college events including technical fests, workshops, and seminars.",
+          "Planned and executed TECKFEST 2022, an inter-college Symposium with the participation of 452 teams."
+        ]
+      },
+      {
+        "title": "App and Web Dev Club Coordinator",
+        "duration": "March 2022 - May 2024",
+        "responsibilities": [
+          "Coordinated the App and Web Development Club, leading a team of 20+ students in developing innovative web and mobile applications.",
+          "Organized weekly workshops and coding sessions enhancing members' skills in React.js, Django, and other technologies."
+        ]
+      }
+    ],
+    "workshops_training": [
+      {
+        "title": "Training Session",
+        "description": ["7-Day Training Session on Website Development using React JS","Attended a comprehensive training session led by RajKamal (Frontend Developer) at DOODLE BLUE Innovations."]
+      },
+      {
+        "title": "Artificial Intelligence Workshop",
+        "description":[ "Participated and completed a workshop hosted by AATOMAZ.","Participated and completed a workshop hosted by AATOMAZ."]
+      },
+      {
+        "title": "Technical Program on Software Development",
+        "description": ["Attended a program presented by TECHVOLT"," gained hands-on experience in developing robust software solutions using industry-standard tools and technologies."]
+      },
+      {
+        "title": "Industrial Visit on Web Development",
+        "description": ["Participated in a comprehensive web development industrial visit program by CODEBIND", "mastering essential tools like HTML, CSS, and JavaScript, and enhancing ability to create user-friendly responsive websites."]
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Innovators Day 2022",
+        "description": "My Diabetes and Heart Disease Prediction project was selected in the top 5 out of 164 projects and awarded a memento and prize money at a national level project contest in SMVEC."
+      }
+    ],
+    
+    "certifications": [
+      {
+        "name":"Practical Next.js & React - Build A Real WebApp With Next.js ",
+        "provider":"Udemy",
+        "link":"https://www.udemy.com/certificate/UC-f25e10d5-cb7f-4934-9435-5a44c19cf5ae/"
+      },
+      {
+        "name":"Blockchain basics",
+        "provider":"Great Learning",
+        "link":"https://verify.mygreatlearning.com/verify/WCOZXXIR"
+      },
+      {
+        "name":"Angular",
+        "provider":"Infosys Springboard",
+        "link":"https://drive.google.com/file/d/1rCTqzliQCpQN4tVIuOqY1O6v6HRlMLh8/view?usp=sharing"
+      },
+      {
+        "name":"MongoDB",
+        "provider":"Infosys Springboard",
+        "link":"https://drive.google.com/file/d/1rBOJdkhPt9R13mq46GxJEZoXFgj4GZiz/view?usp=drive_link"
+      },
+      {
+        "name":"Node JS",
+        "provider":"Infosys Springboard",
+        "link":"https://drive.google.com/file/d/1rAZ6WJpMaGrFj7P_P50wSixh0OafLKQE/view?usp=drive_link"
+      },
+      {
+        "name":"Cloud Computing",
+        "provider":"NPTEL",
+        "link":"https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL22CS87S5449022710066666"
+      },
+      {
+        "name":"Full Stack with Python Programming",
+        "provider":"GUVI",
+        "link":"https://www.guvi.in/certificate?id=v43491k98t65w76hbk"
+      },
+      {
+        "name":"Cisco Certified Network Professional",
+        "provider":"Cisco",
+        "link":"https://www.credly.com/badges/2108994e-e5a7-4919-ba48-d2bdaf27e393/"
+      },
+      {
+        "name":"Young Professional",
+        "provider":"TCS iON",
+        "link":"https://drive.google.com/drive/u/0/folders/1r3dpRTyPRFoUzVCFIaCJbA_v1JcuqiXp"
+      }
+      
+    ]
+  }

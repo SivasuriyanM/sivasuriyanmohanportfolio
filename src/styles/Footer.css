@@ -1,0 +1,24 @@
+.foot-wrapper {
+    background: rgba(0,0,0,0.1);
+    padding: 0.5rem 0;
+    position: sticky;
+    top:0;
+    z-index: 30;
+    backdrop-filter: blur(50px);
+}
+
+.foot-content {
+    max-width:1300;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding: 1rem 0;
+    margin:0 auto;
+}
+
+@media (max-width:1325px) {
+    .foot-wrapper {
+        padding: 0 2rem;
+    }
+}

@@ -1,0 +1,48 @@
+.container::after,
+.container::before {
+    content: " ";
+    width: 28rem;
+    height: 28rem;
+    border-radius: 28.125rem;
+    background: #7c66e3;
+    position: absolute;
+    z-index: -1;
+    filter:blur(200px);
+    
+}
+
+.container::after{
+
+    top: -3rem;
+    left: -5rem;
+}
+
+.container::before {
+    bottom: 0rem;
+    right: 0rem;
+}
+
+
+.edu{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 5px;
+}
+.cert{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+}
+
+@media  (max-width:560px) {
+    .edu{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        gap: 5px;
+    }
+    .cert{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        gap: 5px;
+    }
+}

@@ -1,0 +1,26 @@
+.educ-container{
+    min-height:5rem;
+    border-radius: 0.65rem;
+    border: 1.5px solid #6751b9;
+    background: rgba(22, 17, 47, 0.398);
+    backdrop-filter: blur(1rem);
+    position: relative;
+    padding: 0 2em;
+    line-height: 1.1em;
+
+}
+.edu-content h2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 1.2rem;
+    font-weight: 500;
+    padding: .5em 0;
+    background: linear-gradient(180deg, #d6cbff 0%, #9274ff 100%);
+    background-clip:text;
+    -webkit-background-clip:text;
+    -webkit-text-fill-color: transparent;
+    border-bottom:1.5px solid #6751b9 ;  
+}
+h4{
+    margin: 0%;
+}

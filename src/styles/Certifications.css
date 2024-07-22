@@ -1,0 +1,46 @@
+
+.cert-card {
+    border-radius: 0.65rem;
+    border:1.5px solid #6751b9 ;
+    padding: 1.5rem;
+    text-align: center;
+    background:rgba(22,17,47,0.398);
+    backdrop-filter: blur(1rem);
+    position: relative;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.cert-card:hover,
+.cert-card:active {
+    background:linear-gradient(180deg, #aa94fe 0%, #7c5fe6 100%) ;
+}
+
+.cert-card span {
+    font-size:1.3rem;
+    font-weight: 500;
+}
+.cert-link{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+
+@media (max-width:1025px) {
+
+    .cert-card {
+        padding: 2rem;
+    }
+
+    .cert-card span {
+        font-size: 1rem;
+    }
+
+    
+}
+
+@media (max-width:768px) {
+    .cert-card span{
+        font-size: 0.9rem;
+    }
+}
