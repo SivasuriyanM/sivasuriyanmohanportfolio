@@ -1,6 +1,7 @@
 import { React, useState } from "react";
 import Educationcard from "../components/Educationcardport";
 import Certification from "../components/Certification";
+
 import data from "../data/mydata.json";
 import "../styles/Education.css";
 function Educationport() {
@@ -17,7 +18,7 @@ function Educationport() {
     <>
       <div className="container ">
         <h2>Education</h2>
-        <span className="edu">
+        <span>
           {educations.map((education, index) => (
             <Educationcard key={index} education={education} />
           ))}
@@ -33,6 +34,7 @@ function Educationport() {
               title={certificate.name}
               isActive={selectedCertificate.title === certificate.title}
               link={certificate.link}
+              image={certificate.image}
               onClick={() => {
                 handleSectedCertificate(certificate);
               }}

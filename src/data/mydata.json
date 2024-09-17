@@ -1,211 +1,412 @@
-
 {
-    "name": "Sivasuriyan Mohan",
-    "bio": "Aspiring Full Stack Developer | Proficient in React.js, Django, and Blockchain | BE in Computer Science",
-    "contact": {
-      "email": "msivasuriyanmohan692@gmail.com",
-      "phone": "8760287239",
-      "linkedin": "https://www.linkedin.com/in/siva-suriyan-m/",
-      "github": "https://github.com/SivasuriyanM",
-      "insta":"https://www.instagram.com/ms_suriyan/",
-      "Wp":"https://web.whatsapp.com/",
-      "address":"1-C, Sankara Naidu Street Kesava Nagar Thirupapuliyur Cuddalore-2 Pincode : 607002",
-      "googlemaplink": "https://maps.app.goo.gl/eCXu8XyfQC28h2jZA"
+  "name": "Sivasuriyan Mohan",
+  "bio": "Aspiring Full Stack Developer | Proficient in React.js, Django, and Blockchain | BE in Computer Science",
+  "resume": "https://drive.google.com/drive/folders/1klj7cLRUlntXHqBJ_Rl4poUSAzsR9oS_",
+  "contact": {
+    "email": "msivasuriyanmohan692@gmail.com",
+    "phone": "8760287239",
+    "linkedin": "https://www.linkedin.com/in/siva-suriyan-m/",
+    "github": "https://github.com/SivasuriyanM",
+    "insta": "https://www.instagram.com/ms_suriyan/",
+    "Wp": "https://web.whatsapp.com/",
+    "address": "1-C, Sankara Naidu Street Kesava Nagar Thirupapuliyur Cuddalore-2 Pincode : 607002",
+    "googlemaplink": "https://maps.app.goo.gl/eCXu8XyfQC28h2jZA"
+  },
+  "experience": [
+    {
+      "title": "Web Development Intern at Chucklebyte Technologies",
+      "date": "August 2024 - Present",
+      "responsibility": [
+        "Mode: Virtual",
+        "Project: E-commerce Platform Development (Chucklebytes)",
+        "Description: Developed an e-commerce website using the MERN stack with features such as login, sign-up, home page, product page, cart page, and search functionality. Implemented global state management using React hooks such as useState, useEffect, and useContext.",
+        "Highlights: Used MongoDB for data storage (product details, user data), Node.js and Express.js for backend development. Completed 2 major tasks focused on developing a responsive landing page using React, Material UI, and Framer Motion.",
+        "Proficient in: React.js, Node.js, Express.js, MongoDB, Material UI, Redux Toolkit, Jest, Framer Motion."
+      ]
     },
-    "experience": [
-      {
-        "title": "Python Programming Intern at YBI Foundation",
-        "date": "June 2024 - July 2024",
-        "responsibility": [
-          "Mode : Virtual",
-          "Project: Bank Customer Churn Prediction",
-          "Description: Developed a model to identify at-risk customers using SVC and Gradient Boosting. Conducted data preprocessing and feature engineering.",
-          "Highlights: Completed 13 modules and 35 chapters mastering Python data analysis and machine learning.",
-          "Proficient in Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn."
-        ]
-      }
-    ],
-    "projects": [
-      {
-        "name": "HealthChain",
-        "duration": "Dec 2022 - Apr 2023",
-        "link":"https://healthchain-60030233640.development.catalystserverless.in/app/",
-        "description": "Launched a secure blockchain-powered website for patient health records ensuring enhanced data protection and transparency.",
-        "highlights": [
-          "Developed a front-end using React.js for user interaction",
-          " Integrated secure data transactions with Ethereum test net and MetaMask handling over 10,000 transactions monthly.",
-          "Developed robust smart contracts in Solidity to ensure secure data handling", 
-          "resulting in a 50% reduction in data compromise incidents and a 30% improvement in processing efficiency."
-        ]
-      },
-      {
-        "name": "Diabetes and Heart Disease Prediction",
-        "duration": "Nov 2021 - Feb 2022",
-        "link":"",
-        "description": "Engineered a predictive analytics web application using Django framework, increasing forecasting accuracy by 25% and reducing manual data processing time by 40%.",
-        "highlights": [
-          "Implemented machine learning algorithms (Random Forest) to achieve 85% prediction accuracy.",
-          "Utilized MongoDB for efficient data storage and management, reducing query time by 30%."
-        ]
-      }
-
-    ],
-    "skills": [
+    {
+      "title": "Python Programming Intern at YBI Foundation",
+      "date": "June 2024 - July 2024",
+      "responsibility": [
+        "Mode : Virtual",
+        "Project: Bank Customer Churn Prediction",
+        "Description: Developed a model to identify at-risk customers using SVC and Gradient Boosting. Conducted data preprocessing and feature engineering.",
+        "Highlights: Completed 13 modules and 35 chapters mastering Python data analysis and machine learning.",
+        "Proficient in Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "BRUTON Technologies Landing Page",
+      "duration": "August 2024",
+      "link": "https://bruton-60030233640.development.catalystserverless.in/app/index.html",
+      "description": "Developed a responsive landing page for BRUTON Technologies, a software development and cybersecurity company, focusing on performance optimization and seamless user experience.",
+      "highlights": [
+        "Built the landing page using React.js and Material UI for modern and clean design.",
+        "Implemented animations using Framer Motion to enhance user interaction and engagement.",
+        "Used Redux Toolkit for state management, ensuring smooth data handling across components.",
+        "Increased performance by 20% through lazy loading and memoization techniques."
+      ]
+    },
+    {
+      "name": "Chucklebyte E-commerce Project",
+      "duration": "August 2024 - Present",
+      "link": "https://chucklebyte-ecommerce.example.com",
+      "description": "Developed an e-commerce website using the MERN stack for Chucklebyte Technologies, enabling seamless online shopping with user-friendly navigation and optimized performance.",
+      "highlights": [
+        "Implemented a login, sign-up, product listing, search, and cart functionality using React.js, MongoDB, Node.js, and Express.js.",
+        "Integrated global state management using React hooks (useState, useEffect, useContext) for efficient data handling.",
+        "Utilized MongoDB for storing product data and user information with optimized query handling.",
+        "Achieved a 25% faster loading time through lazy loading and component memoization."
+      ]
+    },
+    {
+      "name": "MyPortfolio",
+      "duration": "March 2024 - April 2024",
+      "link": "https://sivasuriyanmohanportfolio-60030233640.development.catalystserverless.in/",
+      "description": "Developed a personal portfolio website to showcase projects, skills, and experiences, enhancing my professional digital presence.",
+      "highlights": [
+        "Designed and built the front-end using React.js, focusing on responsiveness and clean UI/UX.",
+        "Integrated email service using Node.js and Nodemailer for contact form functionality.",
+        "Deployed on Netlify for fast and secure access, handling over 500 monthly visitors.",
+        "Optimized the site for speed and SEO, improving performance scores by 40%."
+      ]
+    },
+    {
+      "name": "HealthChain",
+      "duration": "Dec 2022 - Apr 2023",
+      "link": "https://healthchain-60030233640.development.catalystserverless.in/app/",
+      "description": "Launched a secure blockchain-powered website for patient health records ensuring enhanced data protection and transparency.",
+      "highlights": [
+        "Developed a front-end using React.js for user interaction",
+        " Integrated secure data transactions with Ethereum test net and MetaMask handling over 10,000 transactions monthly.",
+        "Developed robust smart contracts in Solidity to ensure secure data handling",
+        "resulting in a 50% reduction in data compromise incidents and a 30% improvement in processing efficiency."
+      ]
+    },
+    {
+      "name": "Diabetes and Heart Disease Prediction",
+      "duration": "Nov 2021 - Feb 2022",
+      "link": "",
+      "description": "Engineered a predictive analytics web application using Django framework, increasing forecasting accuracy by 25% and reducing manual data processing time by 40%.",
+      "highlights": [
+        "Implemented machine learning algorithms (Random Forest) to achieve 85% prediction accuracy.",
+        "Utilized MongoDB for efficient data storage and management, reducing query time by 30%."
+      ]
+    }
+  ],
+  "skills": [
     {
       "title": "Programming Languages",
-      "icon":"https://img.icons8.com/ios-filled/50/800080/programming.png",
+      "icon": "https://img.icons8.com/ios-filled/50/800080/programming.png",
       "skills": [
-        {"skill": "Python", "percentage": "50%"},
-        {"skill": "Java", "percentage": "50%"},
-        {"skill": "JavaScript", "percentage": "50%"},
-        {"skill": "Solidity", "percentage": "25%"}
+        {
+          "skill": "Python",
+          "percentage": "50%"
+        },
+        {
+          "skill": "Java",
+          "percentage": "50%"
+        },
+        {
+          "skill": "JavaScript",
+          "percentage": "50%"
+        },
+        {
+          "skill": "Solidity",
+          "percentage": "25%"
+        }
       ]
     },
     {
       "title": "Database",
-      "icon":"https://img.icons8.com/ios-filled/50/800080/database.png",
+      "icon": "https://img.icons8.com/ios-filled/50/800080/database.png",
       "skills": [
-        {"skill": "MongoDB", "percentage": "50%"},
-        {"skill": "MySQL", "percentage": "50%"}
+        {
+          "skill": "MongoDB",
+          "percentage": "50%"
+        },
+        {
+          "skill": "MySQL",
+          "percentage": "50%"
+        }
       ]
     },
     {
       "title": "Frameworks & Libraries",
-      "icon":" https://img.icons8.com/ios-glyphs/50/800080/library.png",
+      "icon": " https://img.icons8.com/ios-glyphs/50/800080/library.png",
       "skills": [
-        {"skill": "React JS", "percentage": "75%"},
-        {"skill": "Django", "percentage": "50%"},
-        {"skill": "React Native", "percentage": "25%"}
+        {
+          "skill": "React JS",
+          "percentage": "75%"
+        },
+        {
+          "skill": "Django",
+          "percentage": "50%"
+        },
+        {
+          "skill": "React Native",
+          "percentage": "25%"
+        }
       ]
     },
     {
       "title": "Tools & Technologies",
-      "icon":"https://img.icons8.com/ios-filled/50/800080/toolbox.png",
+      "icon": "https://img.icons8.com/ios-filled/50/800080/toolbox.png",
       "skills": [
-        {"skill": "VS Code", "percentage": "50%"},
-        {"skill": "Git & GitHub", "percentage": "50%"},
-        {"skill": "Blockchain", "percentage": "50%"}
+        {
+          "skill": "VS Code",
+          "percentage": "50%"
+        },
+        {
+          "skill": "Git & GitHub",
+          "percentage": "50%"
+        },
+        {
+          "skill": "Blockchain",
+          "percentage": "50%"
+        }
       ]
     }
   ],
-    "education": [
-      {
-        "institution": "CK College of Engineering & Technology",
-        "qualification": "Jayaram Nagar, Chellangkuppam, Sellankuppam, Cuddalore, Tamil Nadu 607003 ",
-        "percentage": "I have completed my BE in Computer Science with an aggregate of 78.88%",
-        "duration": "Nov 2020 - May 2024",
-        "relevant_coursework": ["Data Structures", "OOPS", "DBMS"]
-      },
-      {
-        "institution": "Sri Valli Ammal Matric Higher Secondary School",
-        "qualification": "Kesavan Nagar Extension, Thirupapuliyur, Cuddalore, Tamil Nadu 607002",
-        "percentage": "I have completed my High School with an aggregate of 68.88%",
-        "duration": "Jul 2019 - May 2020"
-      },
-      {
-        "institution": "Sri Valli Ammal Matric Higher Secondary School",
-        "qualification": "Kesavan Nagar Extension, Thirupapuliyur, Cuddalore, Tamil Nadu 607002",
-        "percentage": "I have completed my Secondary School with an aggregate of 80.6%",
-        "duration": "Jul 2017 - May 2018"
-      }
-    ],
-    "leadership_experience": [
-      {
-        "title": "School Pupil Leader",
-        "duration": "Apr 2019 - May 2020",
-        "responsibilities": [
-          "As the school pupil leader, I organized a series of workshops focusing on communication, teamwork, and goal-setting to foster leadership skills among students",
-          "I led the coordination of a Career Exploration Fair, connecting students with professionals to provide insights into diverse career paths"
-        ]
-      },
-      {
-        "title": "Event Organizer",
-        "duration": "Sep 2021 - May 2024",
-        "responsibilities": [
-          "Organized and managed over 10 college events including technical fests, workshops, and seminars.",
-          "Planned and executed TECKFEST 2022, an inter-college Symposium with the participation of 452 teams."
-        ]
-      },
-      {
-        "title": "App and Web Dev Club Coordinator",
-        "duration": "March 2022 - May 2024",
-        "responsibilities": [
-          "Coordinated the App and Web Development Club, leading a team of 20+ students in developing innovative web and mobile applications.",
-          "Organized weekly workshops and coding sessions enhancing members' skills in React.js, Django, and other technologies."
-        ]
-      }
-    ],
-    "workshops_training": [
-      {
-        "title": "Training Session",
-        "description": ["7-Day Training Session on Website Development using React JS","Attended a comprehensive training session led by RajKamal (Frontend Developer) at DOODLE BLUE Innovations."]
-      },
-      {
-        "title": "Artificial Intelligence Workshop",
-        "description":[ "Participated and completed a workshop hosted by AATOMAZ.","Participated and completed a workshop hosted by AATOMAZ."]
-      },
-      {
-        "title": "Technical Program on Software Development",
-        "description": ["Attended a program presented by TECHVOLT"," gained hands-on experience in developing robust software solutions using industry-standard tools and technologies."]
-      },
-      {
-        "title": "Industrial Visit on Web Development",
-        "description": ["Participated in a comprehensive web development industrial visit program by CODEBIND", "mastering essential tools like HTML, CSS, and JavaScript, and enhancing ability to create user-friendly responsive websites."]
-      }
-    ],
-    "achievements": [
-      {
-        "title": "Innovators Day 2022",
-        "description": "My Diabetes and Heart Disease Prediction project was selected in the top 5 out of 164 projects and awarded a memento and prize money at a national level project contest in SMVEC."
-      }
-    ],
-    
-    "certifications": [
-      {
-        "name":"Practical Next.js & React - Build A Real WebApp With Next.js ",
-        "provider":"Udemy",
-        "link":"https://www.udemy.com/certificate/UC-f25e10d5-cb7f-4934-9435-5a44c19cf5ae/"
-      },
-      {
-        "name":"Blockchain basics",
-        "provider":"Great Learning",
-        "link":"https://verify.mygreatlearning.com/verify/WCOZXXIR"
-      },
-      {
-        "name":"Angular",
-        "provider":"Infosys Springboard",
-        "link":"https://drive.google.com/file/d/1rCTqzliQCpQN4tVIuOqY1O6v6HRlMLh8/view?usp=sharing"
-      },
-      {
-        "name":"MongoDB",
-        "provider":"Infosys Springboard",
-        "link":"https://drive.google.com/file/d/1rBOJdkhPt9R13mq46GxJEZoXFgj4GZiz/view?usp=drive_link"
-      },
-      {
-        "name":"Node JS",
-        "provider":"Infosys Springboard",
-        "link":"https://drive.google.com/file/d/1rAZ6WJpMaGrFj7P_P50wSixh0OafLKQE/view?usp=drive_link"
-      },
-      {
-        "name":"Cloud Computing",
-        "provider":"NPTEL",
-        "link":"https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL22CS87S5449022710066666"
-      },
-      {
-        "name":"Full Stack with Python Programming",
-        "provider":"GUVI",
-        "link":"https://www.guvi.in/certificate?id=v43491k98t65w76hbk"
-      },
-      {
-        "name":"Cisco Certified Network Professional",
-        "provider":"Cisco",
-        "link":"https://www.credly.com/badges/2108994e-e5a7-4919-ba48-d2bdaf27e393/"
-      },
-      {
-        "name":"Young Professional",
-        "provider":"TCS iON",
-        "link":"https://drive.google.com/drive/u/0/folders/1r3dpRTyPRFoUzVCFIaCJbA_v1JcuqiXp"
-      }
-      
-    ]
-  }
+  "education": [
+    {
+      "institution": "CK College of Engineering & Technology",
+      "qualification": " Bachlor of Engineering in Computer Science Engineering",
+      "address":"Jayaram Nagar, Chellangkuppam, Cuddalore, Tamil Nadu 607003",
+      "percentage": "Completed with an aggregate of 78.88%",
+      "duration": "Nov 2020 - May 2024",
+      "relevant_coursework": [
+        "Data Structures",
+        "OOPS",
+        "DBMS"
+      ],
+      "roles":"App and Web Dev Club Coordinator, Event Organizer, Ambassador, Placement Coordinator"
+    },
+    {
+      "institution": "Sri Valli Ammal Matric Higher Secondary School",
+      "qualification": " Higher Secondary School Certificate in Computer Science ",
+      "address": "Kesavan Nagar Extension, Thirupapuliyur, Cuddalore, Tamil Nadu 607002",
+      "percentage": "Completed with an aggregate of 68.88%",
+      "duration": "Jul 2019 - May 2020",
+      "roles": "School Pupil Leader"
+    },
+    {
+      "institution": "Sri Valli Ammal Matric Higher Secondary School",
+      "qualification": "Secondary School Leaving Certificate",
+      "address": "Kesavan Nagar Extension, Thirupapuliyur,  Cuddalore, Tamil Nadu 607002",
+      "percentage": "Completed with an aggregate of 80.6%",
+      "duration": "Jul 2017 - May 2018",
+      "roles": "Sunflower House Captain"
+    }
+  ],
+  "leadership_experience": [
+    {
+      "title": "School Pupil Leader",
+      "duration": "Apr 2019 - May 2020",
+      "responsibilities": [
+        "As the school pupil leader, I organized a series of workshops focusing on communication, teamwork, and goal-setting to foster leadership skills among students",
+        "I led the coordination of a Career Exploration Fair, connecting students with professionals to provide insights into diverse career paths"
+      ]
+    },
+    {
+      "title": "Event Organizer",
+      "duration": "Sep 2021 - May 2024",
+      "responsibilities": [
+        "Organized and managed over 10 college events including technical fests, workshops, and seminars.",
+        "Planned and executed TECKFEST 2022, an inter-college Symposium with the participation of 452 teams."
+      ]
+    },
+    {
+      "title": "App and Web Dev Club Coordinator",
+      "duration": "March 2022 - May 2024",
+      "responsibilities": [
+        "Coordinated the App and Web Development Club, leading a team of 20+ students in developing innovative web and mobile applications.",
+        "Organized weekly workshops and coding sessions enhancing members' skills in React.js, Django, and other technologies."
+      ]
+    }
+  ],
+  "workshops_training": [
+    {
+      "title": "Training Session",
+      "description": [
+        "7-Day Training Session on Website Development using React JS",
+        "Attended a comprehensive training session led by RajKamal (Frontend Developer) at DOODLE BLUE Innovations."
+      ]
+    },
+    {
+      "title": "Artificial Intelligence Workshop",
+      "description": [
+        "Participated and completed a workshop hosted by AATOMAZ.",
+        "Participated and completed a workshop hosted by AATOMAZ."
+      ]
+    },
+    {
+      "title": "Technical Program on Software Development",
+      "description": [
+        "Attended a program presented by TECHVOLT",
+        " gained hands-on experience in developing robust software solutions using industry-standard tools and technologies."
+      ]
+    },
+    {
+      "title": "Industrial Visit on Web Development",
+      "description": [
+        "Participated in a comprehensive web development industrial visit program by CODEBIND",
+        "mastering essential tools like HTML, CSS, and JavaScript, and enhancing ability to create user-friendly responsive websites."
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Innovators Day 2022",
+      "description": "My Diabetes and Heart Disease Prediction project was selected in the top 5 out of 164 projects and awarded a memento and prize money at a national level project contest in SMVEC."
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Practical Next.js & React - Build A Real WebApp With Next.js ",
+      "provider": "Udemy",
+      "link": "https://www.udemy.com/certificate/UC-f25e10d5-cb7f-4934-9435-5a44c19cf5ae/",
+      "image": "../assests/certificate/git.jpeg"
+    },
+    {
+      "name": "Blockchain basics",
+      "provider": "Great Learning",
+      "link": "https://verify.mygreatlearning.com/verify/WCOZXXIR",
+      "image": "https://drive.google.com/file/d/1r8N-dLbdViqfo-leSvPx1ZN1k5fOZBTF/view?usp=drive_link"
+    },
+    {
+      "name": "Angular",
+      "provider": "Infosys Springboard",
+      "link": "https://drive.google.com/file/d/1rCTqzliQCpQN4tVIuOqY1O6v6HRlMLh8/view?usp=sharing",
+      "image": "https://drive.google.com/file/d/1r8N-dLbdViqfo-leSvPx1ZN1k5fOZBTF/view?usp=drive_link"
+    },
+    {
+      "name": "MongoDB",
+      "provider": "Infosys Springboard",
+      "link": "https://drive.google.com/file/d/1rBOJdkhPt9R13mq46GxJEZoXFgj4GZiz/view?usp=drive_link",
+      "image": "https://drive.google.com/file/d/1r8N-dLbdViqfo-leSvPx1ZN1k5fOZBTF/view?usp=drive_link"
+    },
+    {
+      "name": "Node JS",
+      "provider": "Infosys Springboard",
+      "link": "https://drive.google.com/file/d/1rAZ6WJpMaGrFj7P_P50wSixh0OafLKQE/view?usp=drive_link",
+      "image": "../assests/TCSION.png"
+    },
+    {
+      "name": "Cloud Computing",
+      "provider": "NPTEL",
+      "link": "https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL22CS87S5449022710066666",
+      "image": "https://drive.google.com/file/d/1r8N-dLbdViqfo-leSvPx1ZN1k5fOZBTF/view?usp=drive_link"
+    },
+    {
+      "name": "Full Stack with Python Programming",
+      "provider": "GUVI",
+      "link": "https://www.guvi.in/certificate?id=v43491k98t65w76hbk",
+      "image": "https://drive.google.com/file/d/1r8N-dLbdViqfo-leSvPx1ZN1k5fOZBTF/view?usp=drive_link"
+    },
+    {
+      "name": "Cisco Certified Network Professional",
+      "provider": "Cisco",
+      "link": "https://www.credly.com/badges/2108994e-e5a7-4919-ba48-d2bdaf27e393/",
+      "image": "https://drive.google.com/file/d/1r8N-dLbdViqfo-leSvPx1ZN1k5fOZBTF/view?usp=drive_link"
+    },
+    {
+      "name": "Young Professional",
+      "provider": "TCS iON",
+      "link": "https://drive.google.com/drive/u/0/folders/1r3dpRTyPRFoUzVCFIaCJbA_v1JcuqiXp",
+      "image": "https://drive.google.com/file/d/1r8N-dLbdViqfo-leSvPx1ZN1k5fOZBTF/view?usp=drive_link"
+    },
+    {
+      "name": "Become a Full-Stack Web Developer",
+      "provider": "LinkedIn",
+      "link": "https://www.linkedin.com/show-credential/fullstack-web-developer",
+      "issued": "Jul 2024",
+      "skills": ["Web Development", "Full-Stack Development"]
+    },
+    {
+      "name": "CSS Essential Training",
+      "provider": "LinkedIn",
+      "link": "https://www.linkedin.com/show-credential/css-essential-training",
+      "issued": "Jul 2024",
+      "skills": ["Cascading Style Sheets (CSS)"]
+    },
+    {
+      "name": "DevOps Foundations",
+      "provider": "LinkedIn",
+      "link": "https://www.linkedin.com/show-credential/devops-foundations",
+      "issued": "Jul 2024",
+      "skills": ["DevOps"]
+    },
+    {
+      "name": "Git Essential Training",
+      "provider": "LinkedIn",
+      "link": "https://www.linkedin.com/show-credential/git-essential-training",
+      "issued": "Jul 2024",
+      "skills": ["Git"]
+    },
+    {
+      "name": "HTML Essential Training",
+      "provider": "LinkedIn",
+      "link": "https://www.linkedin.com/show-credential/html-essential-training",
+      "issued": "Jul 2024",
+      "skills": ["HTML"]
+    },
+    {
+      "name": "JavaScript Essential Training",
+      "provider": "LinkedIn",
+      "link": "https://www.linkedin.com/show-credential/javascript-essential-training",
+      "issued": "Jul 2024",
+      "skills": ["JavaScript"]
+    },
+    {
+      "name": "Learning ECMAScript 6+ (ES6+)",
+      "provider": "LinkedIn",
+      "link": "https://www.linkedin.com/show-credential/ecmascript-6",
+      "issued": "Jul 2024",
+      "skills": ["ECMAScript"]
+    },
+    {
+      "name": "Learning REST APIs",
+      "provider": "LinkedIn",
+      "link": "https://www.linkedin.com/show-credential/rest-apis",
+      "issued": "Jul 2024",
+      "skills": ["REST APIs"]
+    },
+    {
+      "name": "NoSQL Essential Training",
+      "provider": "LinkedIn",
+      "link": "https://www.linkedin.com/show-credential/nosql-essential-training",
+      "issued": "Jul 2024",
+      "skills": ["NoSQL"]
+    },
+    {
+      "name": "Node.js Essential Training",
+      "provider": "LinkedIn",
+      "link": "https://www.linkedin.com/show-credential/nodejs-essential-training",
+      "issued": "Jul 2024",
+      "skills": ["Node.js"]
+    },
+    {
+      "name": "React.js Essential Training",
+      "provider": "LinkedIn",
+      "link": "https://www.linkedin.com/show-credential/reactjs-essential-training",
+      "issued": "Jul 2024",
+      "skills": ["React.js", "GraphQL"]
+    },
+    {
+      "name": "SQL Essential Training",
+      "provider": "LinkedIn",
+      "link": "https://www.linkedin.com/show-credential/sql-essential-training",
+      "issued": "Jul 2024"
+    },
+    {
+      "name": "Search Techniques for Web Developers",
+      "provider": "LinkedIn",
+      "link": "https://www.linkedin.com/show-credential/search-techniques-web-developers",
+      "issued": "Jul 2024",
+      "skills": ["Web Application Development", "Search"]
+    }
+  ]
+}

@@ -1,13 +1,14 @@
 import React from "react";
 import logo from "../assests/logo.png";
 import { Link } from "react-router-dom";
-import resume from "../assests/SivasuriyanMohan.pdf";
+// import resume from "../assests/SivasuriyanMohan.pdf";
+import data from "../data/mydata.json";
 
 import "../styles/MobileNav.css";
 
 function MobileNav({ isOpen, toggleMenu }) {
   const handleResume = () => {
-    window.open(resume);
+    window.open(data.resume);
   };
   return (
     <>

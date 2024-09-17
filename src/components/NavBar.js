@@ -1,9 +1,10 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import logo from "../assests/logo.png";
-import resume from "../assests/SivasuriyanMohan.pdf";
+// import resume from "../assests/SivasuriyanMohan.pdf";
 import "../styles/Navbar.css";
 import MobileNav from "./MobileNav";
+import data from "../data/mydata.json";
 function NavBar() {
   const [openMenu, setOpenMenu] = useState(false);
 
@@ -11,7 +12,7 @@ function NavBar() {
     setOpenMenu(!openMenu);
   };
   const handleResume = () => {
-    window.open(resume);
+    window.open(data.resume);
   };
   return (
     <>
